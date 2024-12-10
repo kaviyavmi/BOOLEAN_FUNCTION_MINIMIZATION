@@ -58,9 +58,9 @@ assign f2=((~y & z)|( w & y )|(x & y));
 endmodule
 
 
-Developed by: kaviya
+Developed by: Hemalatha
 
-RegisterNumber:24900714
+RegisterNumber:24901252
 
 
 **RTL**
